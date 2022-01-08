@@ -1,0 +1,72 @@
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\bin\Debug\Library Management System project.exe.config
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\bin\Debug\Library Management System project.exe
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\bin\Debug\Library Management System project.pdb
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Form1.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Properties.Resources.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library Management System project.exe
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library Management System project.pdb
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Dasboard.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Adding_books.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.ViewBook.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.addStudent.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Viewstudent.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Issuebook.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Return_book.resources
+C:\Users\HP\Desktop\Library Management System\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Complete_book_details.resources
+G:\Library Management System project\Library Management System project\bin\Debug\Library Management System project.exe.config
+G:\Library Management System project\Library Management System project\bin\Debug\Library Management System project.exe
+G:\Library Management System project\Library Management System project\bin\Debug\Library Management System project.pdb
+G:\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csprojAssemblyReference.cache
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Adding_books.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.addStudent.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Complete_book_details.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Dasboard.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Form1.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Issuebook.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Properties.Resources.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Return_book.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Viewbook.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Viewstudent.resources
+G:\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.GenerateResource.cache
+G:\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.CoreCompileInputs.cache
+G:\Library Management System project\Library Management System project\obj\Debug\Library Management System project.exe
+G:\Library Management System project\Library Management System project\obj\Debug\Library Management System project.pdb
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\bin\Debug\Library Management System project.exe.config
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\bin\Debug\Library Management System project.exe
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\bin\Debug\Library Management System project.pdb
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Adding_books.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.addStudent.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Complete_book_details.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Dasboard.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Form1.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Issuebook.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Properties.Resources.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Return_book.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Viewbook.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Viewstudent.resources
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library Management System project.exe
+C:\Users\user\Desktop\Presentation\Library Management System project\Library Management System project\obj\Debug\Library Management System project.pdb
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\bin\Debug\Library Management System project.exe.config
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\bin\Debug\Library Management System project.exe
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\bin\Debug\Library Management System project.pdb
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Adding_books.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.addStudent.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Complete_book_details.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Dasboard.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Form1.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Issuebook.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Return_book.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Viewbook.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library_Management_System_project.Viewstudent.resources
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library Management System project.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library Management System project.exe
+C:\Users\user\OneDrive\Desktop\System Analysis Project\Library Management System project\Library Management System project\obj\Debug\Library Management System project.pdb
